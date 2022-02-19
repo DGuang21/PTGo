@@ -1,0 +1,14 @@
+[telegram]
+UserID=
+ChannelID=""
+OperationBotToken=""
+OperationBotName=""
+Debug=false
+
+[box]
+BoxName=""
+BoxUrl=""
+BoxUserName=""
+BoxPassWord=""
+PTRss=""
+Refresh=60
